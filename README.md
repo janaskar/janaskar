@@ -6,7 +6,7 @@
   📚 I'm currently working toward my bachelors degree in computer software engineering<br>
   🌱 I'm learning Flask and Python<br>
   🤝 I'm open to collaborating on interesting projects<br>
-  ✨ Creating bugs since 2002
+  ✨ Creating bugs since 2014
 </p>
 
 ###
