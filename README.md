@@ -5,18 +5,14 @@
   I'm a passionate software developer on a mission to turn ideas into elegant, efficient, and user-friendly solutions. Here's a glimpse of what I'm all about:
 </p>
 
-🚀 **Embarking on the Coding Odyssey:**
-   - 🎓 Pursuing the elusive Bachelors in Computer Software Engineering.
+<h4 align="left">🚀 Embarking on the Coding Odyssey</h4>
+   - 🎓 Pursuing Bachelors in Computer Software Engineering.
    - 🌱 Currently nurturing my coding garden with React.js and ASP.NET seeds.
-   - ✨ Crafting bugs since 2014—because even the bugs deserve a touch of creativity!
-
-🌟 **Tech Alchemist's Arsenal:**
-   - 💻 Fluent in the arcane languages of [Languages]. 
-   - 🛠️ Forging solutions with the mystical powers of [Frameworks/Tools].
+   - ✨ Crafting bugs since 2014
 
 ###
 
-<h2 align="left">Unleashing power with this arsenal</h2>
+<h4 align="left">Unleashing power with this arsenal</h4>
 
 ###
 
@@ -42,7 +38,7 @@
 
 ###
 
-<h2 align="left">Reach out if you have a quest or just want to chat about the expanding tech universe.</h2>
+<h4 align="left">Reach out if you have a quest or just want to chat about the expanding tech universe.</h4>
 
 ###
 
